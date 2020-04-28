@@ -1,0 +1,12 @@
+
+.App {
+  text-align: center;
+}
+
+body{
+  background-image: url("blue-snow.png");
+  /* background-image: url("https://i.pinimg.com/originals/a1/99/f3/a199f37446cbe1cd6701c693963971c3.jpg"); */
+   /* background-image: linear-gradient(to right, #B892FF, #E88D67);  */
+  /* background-image: url("https://p1.piqsels.com/preview/590/489/296/texture-silky-fabric-transparent-blue.jpg"); */
+
+}
